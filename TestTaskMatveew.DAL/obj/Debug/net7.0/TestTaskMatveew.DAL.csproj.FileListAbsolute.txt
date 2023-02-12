@@ -1,0 +1,17 @@
+E:\GeekBrains\TestTask\TestTaskMatveew\TestTaskMatveew.DAL\bin\Debug\net7.0\TestTaskMatveew.DAL.deps.json
+E:\GeekBrains\TestTask\TestTaskMatveew\TestTaskMatveew.DAL\bin\Debug\net7.0\TestTaskMatveew.DAL.runtimeconfig.json
+E:\GeekBrains\TestTask\TestTaskMatveew\TestTaskMatveew.DAL\bin\Debug\net7.0\TestTaskMatveew.DAL.dll
+E:\GeekBrains\TestTask\TestTaskMatveew\TestTaskMatveew.DAL\bin\Debug\net7.0\TestTaskMatveew.DAL.pdb
+E:\GeekBrains\TestTask\TestTaskMatveew\TestTaskMatveew.DAL\bin\Debug\net7.0\TestTaskMatveew.Domain.dll
+E:\GeekBrains\TestTask\TestTaskMatveew\TestTaskMatveew.DAL\bin\Debug\net7.0\TestTaskMatveew.Domain.pdb
+E:\GeekBrains\TestTask\TestTaskMatveew\TestTaskMatveew.DAL\obj\Debug\net7.0\TestTaskMatveew.DAL.csproj.AssemblyReference.cache
+E:\GeekBrains\TestTask\TestTaskMatveew\TestTaskMatveew.DAL\obj\Debug\net7.0\TestTaskMatveew.DAL.GeneratedMSBuildEditorConfig.editorconfig
+E:\GeekBrains\TestTask\TestTaskMatveew\TestTaskMatveew.DAL\obj\Debug\net7.0\TestTaskMatveew.DAL.AssemblyInfoInputs.cache
+E:\GeekBrains\TestTask\TestTaskMatveew\TestTaskMatveew.DAL\obj\Debug\net7.0\TestTaskMatveew.DAL.AssemblyInfo.cs
+E:\GeekBrains\TestTask\TestTaskMatveew\TestTaskMatveew.DAL\obj\Debug\net7.0\TestTaskMatveew.DAL.csproj.CoreCompileInputs.cache
+E:\GeekBrains\TestTask\TestTaskMatveew\TestTaskMatveew.DAL\obj\Debug\net7.0\TestTaskMatveew.DAL.csproj.CopyComplete
+E:\GeekBrains\TestTask\TestTaskMatveew\TestTaskMatveew.DAL\obj\Debug\net7.0\TestTaskMatveew.DAL.dll
+E:\GeekBrains\TestTask\TestTaskMatveew\TestTaskMatveew.DAL\obj\Debug\net7.0\refint\TestTaskMatveew.DAL.dll
+E:\GeekBrains\TestTask\TestTaskMatveew\TestTaskMatveew.DAL\obj\Debug\net7.0\TestTaskMatveew.DAL.pdb
+E:\GeekBrains\TestTask\TestTaskMatveew\TestTaskMatveew.DAL\obj\Debug\net7.0\TestTaskMatveew.DAL.genruntimeconfig.cache
+E:\GeekBrains\TestTask\TestTaskMatveew\TestTaskMatveew.DAL\obj\Debug\net7.0\ref\TestTaskMatveew.DAL.dll

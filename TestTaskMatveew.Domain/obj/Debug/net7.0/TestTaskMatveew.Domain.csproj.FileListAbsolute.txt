@@ -1,0 +1,12 @@
+E:\GeekBrains\TestTask\TestTaskMatveew\TestTaskMatveew.Domain\bin\Debug\net7.0\TestTaskMatveew.Domain.deps.json
+E:\GeekBrains\TestTask\TestTaskMatveew\TestTaskMatveew.Domain\bin\Debug\net7.0\TestTaskMatveew.Domain.dll
+E:\GeekBrains\TestTask\TestTaskMatveew\TestTaskMatveew.Domain\bin\Debug\net7.0\TestTaskMatveew.Domain.pdb
+E:\GeekBrains\TestTask\TestTaskMatveew\TestTaskMatveew.Domain\obj\Debug\net7.0\TestTaskMatveew.Domain.csproj.AssemblyReference.cache
+E:\GeekBrains\TestTask\TestTaskMatveew\TestTaskMatveew.Domain\obj\Debug\net7.0\TestTaskMatveew.Domain.GeneratedMSBuildEditorConfig.editorconfig
+E:\GeekBrains\TestTask\TestTaskMatveew\TestTaskMatveew.Domain\obj\Debug\net7.0\TestTaskMatveew.Domain.AssemblyInfoInputs.cache
+E:\GeekBrains\TestTask\TestTaskMatveew\TestTaskMatveew.Domain\obj\Debug\net7.0\TestTaskMatveew.Domain.AssemblyInfo.cs
+E:\GeekBrains\TestTask\TestTaskMatveew\TestTaskMatveew.Domain\obj\Debug\net7.0\TestTaskMatveew.Domain.csproj.CoreCompileInputs.cache
+E:\GeekBrains\TestTask\TestTaskMatveew\TestTaskMatveew.Domain\obj\Debug\net7.0\TestTaskMatveew.Domain.dll
+E:\GeekBrains\TestTask\TestTaskMatveew\TestTaskMatveew.Domain\obj\Debug\net7.0\refint\TestTaskMatveew.Domain.dll
+E:\GeekBrains\TestTask\TestTaskMatveew\TestTaskMatveew.Domain\obj\Debug\net7.0\TestTaskMatveew.Domain.pdb
+E:\GeekBrains\TestTask\TestTaskMatveew\TestTaskMatveew.Domain\obj\Debug\net7.0\ref\TestTaskMatveew.Domain.dll

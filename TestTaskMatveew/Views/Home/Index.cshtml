@@ -1,0 +1,30 @@
+﻿@using TestTaskMatveew.Domain;
+@model Offer;
+@{
+    ViewData["Title"] = "Offer Page";
+}
+
+<div class="container">
+    <div class="row">
+        <div class="col-md-6 offset-md-3" id="offer_panel">
+            <ul>
+                <li>Offer Id: @Model.Id</li>
+                <li>
+                    <a href="@Model.Url">Url</a>
+                </li>
+                <li>Price: @Model.Price</li>
+                <li>CurrencyId: @Model.CurrencyId</li>
+                <li>CategoryId: @Model.CategoryId</li>
+                <li>
+                    <a href="@Model.Picture">Picture</a>
+                </li>
+                <li>Delivery: @Model.Delivery</li>
+                <li>Artist: @Model.Artist</li>
+                <li>Title: @Model.Title</li>
+                <li>Year: @Model.Year</li>
+                <li>Media: @Model.Media</li>
+                <li>Description: @Model.Description</li>
+            </ul>
+        </div>
+    </div>
+</div>
